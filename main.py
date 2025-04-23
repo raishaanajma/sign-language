@@ -3,7 +3,6 @@ import cv2
 import time
 import uuid
 
-image_url = 
-label = ['Hello', 'Please', 'I Love You', 'Thanks', 'Yes', 'No', 'Family', 'Help', 'House', 'Sorry']
+image_url = 'dataset-sign-language'
+labels = ['Hello', 'Please', 'I Love You', 'Thanks', 'Yes', 'No', 'Family', 'Help', 'House', 'Sorry']
 numberimages = 10
-

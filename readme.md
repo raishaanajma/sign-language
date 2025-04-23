@@ -1,0 +1,1 @@
+Dataset Kaggle = https://www.kaggle.com/datasets/nikhilgawai/sign-language-dataset
