@@ -1,0 +1,5 @@
+train: ../dataset-sign-language/final-set/train/image-train
+val: ../dataset-sign-language/final-set/test/image-test
+
+nc: 10
+names: ['Hello', 'Please', 'I Love You', 'Thank You', 'Yes', 'No', 'Family', 'Help', 'House', 'Sorry']
