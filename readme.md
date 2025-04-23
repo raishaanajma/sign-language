@@ -1,4 +1,6 @@
-Dataset Kaggle = https://www.kaggle.com/datasets/nikhilgawai/sign-language-dataset
+Dataset Kaggle or dataset-sign-language
+https://www.kaggle.com/datasets/nikhilgawai/sign-language-dataset
 
-install label-studio/labelImg
-pip install label-studio
+
+install labelImg or labelimg
+https://github.com/HumanSignal/labelImg/releases
